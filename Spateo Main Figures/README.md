@@ -1,0 +1,1 @@
+Folders contain instructions for producing the appropriate main figures from the Spateo manuscript. 
